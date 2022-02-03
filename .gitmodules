@@ -1,0 +1,3 @@
+[submodule "symfony-demo-docker"]
+	path = symfony-demo-docker
+	url = https://github.com/treinaweb/symfony-demo-docker.git
